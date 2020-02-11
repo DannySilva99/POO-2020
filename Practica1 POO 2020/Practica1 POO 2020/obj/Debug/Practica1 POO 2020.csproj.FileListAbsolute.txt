@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Practica1 POO 2020\Practica1 POO 2020\bin\Debug\Practica1 POO 2020.exe.config
+C:\Users\User\source\repos\Practica1 POO 2020\Practica1 POO 2020\bin\Debug\Practica1 POO 2020.exe
+C:\Users\User\source\repos\Practica1 POO 2020\Practica1 POO 2020\bin\Debug\Practica1 POO 2020.pdb
+C:\Users\User\source\repos\Practica1 POO 2020\Practica1 POO 2020\obj\Debug\Practica1 POO 2020.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Practica1 POO 2020\Practica1 POO 2020\obj\Debug\Practica1 POO 2020.exe
+C:\Users\User\source\repos\Practica1 POO 2020\Practica1 POO 2020\obj\Debug\Practica1 POO 2020.pdb
